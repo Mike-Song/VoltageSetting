@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project VoltageSetting -->
+<!-- Saved: 2018-07-23, 01:35:23 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{0b3c32b3-7539-40ad-9288-fe0ee1049b58}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>89</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{08a061ea-5459-4fc9-b457-caf015e95307}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>112</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{13b82c21-d50d-462b-ad79-a579d48c0abf}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>127</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{160f25c6-d73f-403a-b5e2-d2aff2e04c46}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>142</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9eaf3c4f-cfdc-41c3-9520-96bd7cb4cd9b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>157</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{014fe36c-ad9d-43df-98e4-56db67455e3c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>172</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{06f36de3-3f23-4a0e-9336-13a726cb5de8}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-07-22, 23:46:09</Created>
+    <Resource>
+      <Filename>VoltageSetting.py</Filename>
+      <Linenumber>187</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
